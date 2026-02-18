@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"89a0bcab65aad85f","type":"text","text":"Error Handeler","x":-679,"y":-210,"width":250,"height":60},
+		{"id":"54d74044eff35a6b","type":"text","text":"Symbol Table Manager","x":-1420,"y":-220,"width":250,"height":60},
+		{"id":"f2e7789f4ba0ab7a","type":"text","text":"Lexical Analysis","x":-1120,"y":-500,"width":250,"height":60},
+		{"id":"f18ab386e9762c73","type":"text","text":"Syntax Analysis","x":-1120,"y":-380,"width":250,"height":60},
+		{"id":"22442002334218a1","type":"text","text":"Semantic Analysis","x":-1120,"y":-260,"width":250,"height":60},
+		{"id":"35c6682ee7c3c1a0","type":"text","text":"Code Optimization","x":-1120,"y":-40,"width":250,"height":60},
+		{"id":"661d2a4bd9aca58a","type":"text","text":"Target Code Generation","x":-1120,"y":80,"width":250,"height":60},
+		{"id":"5f1b1e526d7b9d35","type":"text","text":"Intermediate Code Generation","x":-1120,"y":-160,"width":250,"height":60},
+		{"id":"ab4ac5c33107eb97","type":"text","text":"Lexical Analyzer","x":-679,"y":80,"width":250,"height":60},
+		{"id":"646443f59465c724","type":"text","text":"Symbol Table","x":-439,"y":-80,"width":250,"height":60},
+		{"id":"5b06595059211c90","type":"text","text":"Syntax Analyzer","x":-179,"y":80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"41f7e992133d013f","fromNode":"ab4ac5c33107eb97","fromSide":"right","toNode":"5b06595059211c90","toSide":"left"},
+		{"id":"f28fa1f0993fa17f","fromNode":"ab4ac5c33107eb97","fromSide":"top","toNode":"646443f59465c724","toSide":"left"},
+		{"id":"ff0fb557d2c0a5cc","fromNode":"646443f59465c724","fromSide":"right","toNode":"5b06595059211c90","toSide":"top"},
+		{"id":"3356ac78f33564a0","fromNode":"5b06595059211c90","fromSide":"top","toNode":"646443f59465c724","toSide":"right"},
+		{"id":"5603394edeb46b47","fromNode":"5b06595059211c90","fromSide":"left","toNode":"ab4ac5c33107eb97","toSide":"right"},
+		{"id":"49a75358976ecf16","fromNode":"54d74044eff35a6b","fromSide":"top","toNode":"f2e7789f4ba0ab7a","toSide":"left"},
+		{"id":"bb375a120c7165da","fromNode":"54d74044eff35a6b","fromSide":"top","toNode":"f18ab386e9762c73","toSide":"left"},
+		{"id":"6ec470c13b1c9280","fromNode":"54d74044eff35a6b","fromSide":"top","toNode":"22442002334218a1","toSide":"left"},
+		{"id":"9706153e5533ea12","fromNode":"54d74044eff35a6b","fromSide":"bottom","toNode":"5f1b1e526d7b9d35","toSide":"left"},
+		{"id":"7c8766e533c6ea34","fromNode":"54d74044eff35a6b","fromSide":"bottom","toNode":"35c6682ee7c3c1a0","toSide":"left"},
+		{"id":"0c201ef95ccee570","fromNode":"54d74044eff35a6b","fromSide":"bottom","toNode":"661d2a4bd9aca58a","toSide":"left"},
+		{"id":"9e142936414fbb98","fromNode":"f2e7789f4ba0ab7a","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"top"},
+		{"id":"cadc27ffd313ade8","fromNode":"f18ab386e9762c73","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"top"},
+		{"id":"bf14e1c5e70f1511","fromNode":"22442002334218a1","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"top"},
+		{"id":"838f776857eeae16","fromNode":"5f1b1e526d7b9d35","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"bottom"},
+		{"id":"65165cf941974f25","fromNode":"35c6682ee7c3c1a0","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"bottom"},
+		{"id":"e98f9319316eb8f1","fromNode":"661d2a4bd9aca58a","fromSide":"left","toNode":"54d74044eff35a6b","toSide":"bottom"},
+		{"id":"ed7a2f7e37fdf7df","fromNode":"22442002334218a1","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"},
+		{"id":"809b83f5fbb7a248","fromNode":"f18ab386e9762c73","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"},
+		{"id":"be1b1a35e37b3da7","fromNode":"f2e7789f4ba0ab7a","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"},
+		{"id":"47243d246e6bd891","fromNode":"5f1b1e526d7b9d35","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"},
+		{"id":"3d8a157d78948f71","fromNode":"35c6682ee7c3c1a0","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"},
+		{"id":"d62ed5f3ece58f5c","fromNode":"661d2a4bd9aca58a","fromSide":"right","toNode":"89a0bcab65aad85f","toSide":"left"}
+	]
+}

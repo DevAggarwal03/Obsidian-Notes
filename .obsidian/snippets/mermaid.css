@@ -1,0 +1,11 @@
+/* Scale all mermaid diagrams */
+.markdown-preview-view .mermaid svg {
+    transform: scale(0.75);
+    transform-origin: top left;
+}
+
+/* prevent clipping */
+.markdown-preview-view .mermaid {
+    overflow: visible !important;
+}
+
