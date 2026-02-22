@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d9507a03c2b75f14","type":"text","text":"Digital Forensics","x":-380,"y":-220,"width":250,"height":60},
+		{"id":"2df7e352288e420e","type":"text","text":"Data Recovery","x":-40,"y":-220,"width":250,"height":60},
+		{"id":"bca13f3a8f85d6a8","type":"text","text":"Used to investigate data retrieved from computer's hard drive or USB/CD/DVD","x":-380,"y":-140,"width":250,"height":120},
+		{"id":"71801b871cd93a82","type":"text","text":"involves the recovery of lost data due to mistake, Server crash or a power surge","x":-40,"y":-140,"width":250,"height":120},
+		{"id":"940c55d47b43e941","type":"text","text":"It involves finding of the data users might have deleted or hidden in a storage media, While also making sure the it is valid","x":-380,"y":0,"width":250,"height":140},
+		{"id":"e84a59246885052b","type":"text","text":"Here we know which file/data is to be recovered","x":-40,"y":0,"width":250,"height":140},
+		{"id":"042ec6c9e28e1945","type":"text","text":"Can be presented as an Evidence in court","x":-380,"y":160,"width":250,"height":100},
+		{"id":"1071a97d028721f5","type":"text","text":"Usually just for personal data recovery not for Evidence showcase","x":-40,"y":160,"width":250,"height":100},
+		{"id":"f6febb5d63407791","type":"text","text":"Every thing should be properly documented according to cyber laws","x":-380,"y":280,"width":250,"height":100},
+		{"id":"ab6f3b7a9482e1c9","x":-40,"y":280,"width":250,"height":100,"type":"text","text":"No need to maintain a structural documentation of the activities performed"}
+	],
+	"edges":[]
+}

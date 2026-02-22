@@ -24,5 +24,21 @@
       ],
       "key": "S"
     }
+  ],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": " "
+    }
+  ],
+  "various-complements:hide-suggestions": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": " "
+    }
   ]
 }
