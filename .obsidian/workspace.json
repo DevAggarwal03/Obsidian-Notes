@@ -35,14 +35,12 @@
             "id": "d361c5ecd5f249dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Forensics/unit2.md",
-                "mode": "source",
-                "source": false
+                "file": "IKS/syllabus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "unit2"
+              "icon": "lucide-file-text",
+              "title": "syllabus"
             }
           },
           {
@@ -227,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forensics/unit2.md"
+                "file": "IKS/Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for unit2"
+              "title": "File properties for Index"
             }
           }
         ],
@@ -254,11 +252,20 @@
   },
   "active": "d361c5ecd5f249dc",
   "lastOpenFiles": [
+    "CDT/LL(1) Block Diagram.png",
+    "PostMSE.md",
+    "CDT/First and Follow rules.png",
+    "Forensics/Pasted image 20260219031515.png",
+    "CDT/Pasted image 20260217185638.png",
+    "IKS/Index.md",
+    "IKS/syllabus.pdf",
+    "IKS/Indian Knowledge in Civilization Sciences and Engineering Physics BOS.pages",
+    "Forensics/unit2.md",
+    "IKS",
     "Forensics/Unit 1.md",
     "Forensics/Digital Forensics IT NEP Syllabus.pdf",
     "Forensics/forensicWorkstation.pdf",
     "Forensics/df unit 1 complete (hand written).pdf",
-    "Forensics/unit2.md",
     "Forensics/DF vs Data Recovery.canvas",
     "Pasted image 20260219031515.png",
     "CDT/Index.md",
@@ -280,7 +287,6 @@
     "Untitled.canvas",
     "CDT/Interactions.canvas",
     "CDT/Introduction.md",
-    "PostMSE.md",
     "Pasted image 20260217024936.png",
     "CDT/Unit1/fullArch.canvas",
     "Untitled.md",
