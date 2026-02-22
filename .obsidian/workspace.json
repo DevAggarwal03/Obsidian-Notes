@@ -8,74 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c8ae10a7ccb40f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Forensics/Digital Forensics IT NEP Syllabus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Digital Forensics IT NEP Syllabus"
-            }
-          },
-          {
-            "id": "4cf7ae0c040d1afc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Forensics/forensicWorkstation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "forensicWorkstation"
-            }
-          },
-          {
             "id": "d361c5ecd5f249dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IKS/syllabus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "syllabus"
-            }
-          },
-          {
-            "id": "2b2648a683425975",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Forensics/DF vs Data Recovery.canvas",
-                "viewState": {
-                  "x": -34.80776722391139,
-                  "y": 223.2790921924072,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DF vs Data Recovery"
-            }
-          },
-          {
-            "id": "29050394ff07c3bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensics/unit2.md",
+                "file": "IKS/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit2"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "671eee779ac71076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKS/27thJan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27thJan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,15 +211,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "d361c5ecd5f249dc",
+  "active": "671eee779ac71076",
   "lastOpenFiles": [
-    "CDT/LL(1) Block Diagram.png",
+    "IKS/3rdFeb.md",
+    "IKS/27thJan.md",
+    "IKS/28thJan.md",
+    "IKS/4thFeb.md",
+    "IKS/5thFeb.md",
+    "IKS/What is IKS?.md",
+    "IKS/Index.md",
+    "IKS/syllabus.pdf",
     "PostMSE.md",
+    "CDT/LL(1) Block Diagram.png",
     "CDT/First and Follow rules.png",
     "Forensics/Pasted image 20260219031515.png",
     "CDT/Pasted image 20260217185638.png",
-    "IKS/Index.md",
-    "IKS/syllabus.pdf",
     "IKS/Indian Knowledge in Civilization Sciences and Engineering Physics BOS.pages",
     "Forensics/unit2.md",
     "IKS",
@@ -295,7 +262,6 @@
     "Untitled.base",
     "2026-02-16.md",
     "CDT",
-    "CDT.md",
-    "create a link.md"
+    "CDT.md"
   ]
 }
