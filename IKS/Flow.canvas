@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"42ff6a400988ace1","type":"text","text":"IKS","x":-100,"y":-280,"width":80,"height":60},
+		{"id":"e22007a0d9dfa16d","type":"text","text":"1. Mathematics\n2. Metallurgy\n3. Astronomy\n4. Medicine and heatlh","x":280,"y":100,"width":250,"height":140},
+		{"id":"056ab8ca93de6351","type":"text","text":"Education system in Indian Tradition.","x":320,"y":-200,"width":250,"height":80},
+		{"id":"98c8828407733d07","type":"text","text":"language and Knowledge transmission\n- Sanskrit","x":100,"y":-420,"width":345,"height":80},
+		{"id":"86969416a74b45d4","type":"text","text":"Environment & Sustainability","x":-480,"y":-400,"width":250,"height":60},
+		{"id":"35bf2045ef709658","type":"text","text":"- what is it\n- Philosophical Foundational basis","x":-640,"y":-60,"width":250,"height":100},
+		{"id":"5ed16139c7a5e3cb","type":"text","text":"- classification","x":-350,"y":10,"width":250,"height":60},
+		{"id":"9bcd5b31353110ed","type":"text","text":"Innovation and contribution to science and Technology","x":-25,"y":0,"width":250,"height":80},
+		{"id":"2c7696d61845e518","type":"text","text":"Vedas","x":-515,"y":180,"width":250,"height":60},
+		{"id":"671107e7e9be1b84","type":"text","text":"what are vedas?","x":-515,"y":300,"width":250,"height":60},
+		{"id":"92f65dfd1236967c","type":"text","text":"Rig Veda (HDECOH)\n- Hymn or veses of praise\n- Deities\n- Expression of Worship\n- Curiosity for new knowledge\n- Oldest Veda\n- Hotr (priests)","x":-920,"y":330,"width":250,"height":260},
+		{"id":"77fd7afe63dbcd38","type":"text","text":"Yajur Veda (YRWsY)\n1. Yaj\n2. Worship Associated with scarifce\n3. Yaju: mantra\n4. Rituals\n5. Other topics","x":-640,"y":547,"width":250,"height":242},
+		{"id":"0443d27e32bc561d","type":"text","text":"Atharva Veda\n\n1. Atharvaveda is the fourth Veda, focused on daily life, healing, and protection.\n2. It contains 730 hymns divided into 20 books called Khandas.\n3. Unlike other Vedas, it includes spells, charms, and medical knowledge.\n4. It laid the foundation for Ayurveda, India’s traditional medicine system.\n5. The Atharvaveda includes important Upanishads like **Mundaka** and **Mandukya**.","x":-186,"y":300,"width":680,"height":197},
+		{"id":"9da7f2d733e2bd63","type":"text","text":"SamaVeda (SMMRkjPuUt1875)\n\n1. To pacify / please / satisfy\n2. Musical chanting and singing of vedic hymns\n3. Imp of melodic music in vedic practices and worship\n4. 3 branches (RKJ):\n\t- Ranayaniya\n\t- Kauthuma\n\t- Jaiminiya\n5. 2 parts (purva & uttqr)\n\t1. Purvaracikam\n\t2. Uttararachikam\n6. 1875 mantras","x":-350,"y":547,"width":504,"height":362},
+		{"id":"1314b86ae622d44a","type":"text","text":"philosophical thought","x":796,"y":210,"width":250,"height":60},
+		{"id":"d9ee8936a94589f1","type":"text","text":"**Beginning**\n- Philosophical enquiry dates back to vedic lit \n- They enquired about rain, day, night, and called then dvatas (Gods)\n- Rigveda delves into and vigorously enquired about the functioning of these Dvatas\n- Called them purusa (all supreme beign)\n- Thought that kowing purusa is the path to overcome death.","x":608,"y":325,"width":438,"height":275},
+		{"id":"73adaaeea7b9f642","type":"text","text":"**unique feat**\n1. Indian Philosophical system is also known as **Darsanas**\n2. Indian Philosophy is linked with religion, providing framework that asks existential questions, which are used by schools to teach social practice, ethics, values that shape everyday life.\n3. Philosophical system can be categorized into\n\t1. Vedic shools of Philosophy(6 schools)\n\t2. Non-vedic schools of Philosy (3)\n4. These religions/schools believe in many topics that are common to them and they are:\n\t1. Mukti (free will and liberation)\n\t2. Samasara (Cycle of birth and death)\n\t3. Karma (fruites of actions)\n5. Darshana gather valid knowledge using epistemological(the study of knowledge) tools (pramana), though diff schools uses diff tools.\n6. Despite the difference in belief and values, religion/schools have co-existed peacefully via engaging in dialogs and debates at a very high Intellectual level. \n7. A vedic school **Nyaya** provided the framework for debate\n8. There are records of these debates being conducted for over centuries and they are also being used currently. Hence in thing way difference schools of though flourished and co-existed peacfully.","x":1140,"y":325,"width":660,"height":575},
+		{"id":"981ddd0eaefa04d4","x":1600,"y":1000,"width":250,"height":60,"type":"text","text":"To be continued..."},
+		{"id":"f6701d75f76a5db3","x":345,"y":806,"width":250,"height":60,"type":"text","text":"Ancient Knowledge"},
+		{"id":"d17430a6d40b85d8","x":80,"y":960,"width":455,"height":620,"type":"text","text":"Importance of Ancient Knowledge\n- Identity (who we are)\n\t1. Ancient knowledge is the basis of our civilization and culture. It helps individuals and society to know who they are, how they come to be, and what did their own ancestors did in ancient times. It gives us a sense of belonging, continuity, self-recognition\n- Culture (how we live)\t\n\t1. Ancient knowledge preserve and transmit culture, traditions, heritage, rituals, social practices down the generation. This sustains the living heritage and ensures the continuity of the historical culture across time.\n- Wisdom received (What we inherit)\n\t 1. This refers to the collective knowledge that we inherit from our ancestors in any form be it, folk - tail, Texts, Oral transmission, scriptures etc.\n- Economic Values: \n\t1. Ancient knowledge has also been a key factor in the development in economic values of present times through agriculture, medicine, crafts, architecture etc."}
+	],
+	"edges":[
+		{"id":"32f2f5842a6f165e","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"35bf2045ef709658","toSide":"top"},
+		{"id":"c73390c1814e450b","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"5ed16139c7a5e3cb","toSide":"top"},
+		{"id":"2e68743603430824","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"9bcd5b31353110ed","toSide":"top"},
+		{"id":"8571aa4e3a2c0ad7","fromNode":"9bcd5b31353110ed","fromSide":"bottom","toNode":"e22007a0d9dfa16d","toSide":"left"},
+		{"id":"e2b7737d5d141af9","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"056ab8ca93de6351","toSide":"left"},
+		{"id":"2412a6d06ef74b1e","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"98c8828407733d07","toSide":"bottom"},
+		{"id":"61b7c69fdb5a807f","fromNode":"42ff6a400988ace1","fromSide":"bottom","toNode":"86969416a74b45d4","toSide":"bottom"},
+		{"id":"5c2e5d4686f40651","fromNode":"2c7696d61845e518","fromSide":"bottom","toNode":"671107e7e9be1b84","toSide":"top"},
+		{"id":"24a10eff029372cf","fromNode":"671107e7e9be1b84","fromSide":"bottom","toNode":"92f65dfd1236967c","toSide":"top"},
+		{"id":"98469d615a8a6c8b","fromNode":"671107e7e9be1b84","fromSide":"bottom","toNode":"77fd7afe63dbcd38","toSide":"top"},
+		{"id":"b87eca144c9434da","fromNode":"671107e7e9be1b84","fromSide":"bottom","toNode":"9da7f2d733e2bd63","toSide":"top"},
+		{"id":"8ed044e9338f6283","fromNode":"671107e7e9be1b84","fromSide":"bottom","toNode":"0443d27e32bc561d","toSide":"left"},
+		{"id":"17af1bdaa3368210","fromNode":"1314b86ae622d44a","fromSide":"bottom","toNode":"d9ee8936a94589f1","toSide":"top"},
+		{"id":"857ac9047957a0ea","fromNode":"d9ee8936a94589f1","fromSide":"right","toNode":"73adaaeea7b9f642","toSide":"left"},
+		{"id":"77dd2a09a218146a","fromNode":"73adaaeea7b9f642","fromSide":"bottom","toNode":"981ddd0eaefa04d4","toSide":"left"},
+		{"id":"ce50c94afecfeac1","fromNode":"f6701d75f76a5db3","fromSide":"bottom","toNode":"d17430a6d40b85d8","toSide":"top"}
+	]
+}
