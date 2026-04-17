@@ -1,0 +1,1 @@
+- see week 6 lec: 2 
